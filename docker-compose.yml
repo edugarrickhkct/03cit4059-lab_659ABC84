@@ -1,4 +1,3 @@
-version: '3'
 services:
   linux:
     container_name: lab01-linux-1
